@@ -1,4 +1,4 @@
-# Building on Avalanche - ETH + AVAX
+# Building on Avalanche - DEGEN Token Implementation
 
 This is a basic solidity smart contract for implementing DEGEN tokens and exploring it's functionalities.
 
@@ -52,8 +52,7 @@ WALLET_PRIVATE_KEY=
 SNOWTRACE_API_KEY=
 ```
 
-
-### Getting the AVX from Avalnche faucet
+### Getting the AVX tokens from Avalnche faucet
 
 We require AVX tokens to operate the aforementioned solidity smart contract. In order to obtain AVX tokens on the Fuji(C-Chain) network, we visit the Avalanche testnet tap.
 
