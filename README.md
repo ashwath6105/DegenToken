@@ -43,7 +43,7 @@ The above command will verify the smart contract on the testnet.
 The contract verification and creation of the contract is showed on snowtrace platform. All the transactions of mint, burn ,transfer and redeem functions will be recorded on SnowTrace platform.
 
 
-## Providing the wallet address and API key
+## Wallet address and API key
 
 Provide your wallet Private key and SnowTrace API key in a .env file in the following format for your transactions to be deployed and verified on the testnet.
 
