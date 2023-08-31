@@ -52,12 +52,6 @@ WALLET_PRIVATE_KEY=
 SNOWTRACE_API_KEY=
 ```
 
-### Getting the AVX tokens from Avalnche faucet
-
-We require AVX tokens to operate the aforementioned solidity smart contract. In order to obtain AVX tokens on the Fuji(C-Chain) network, we visit the Avalanche testnet tap.
-
-In order to receive the AVX tokens, we must connect our wallet. After doing this, we may deploy the solidity smart contract.
-
 
 ## Authors
 
