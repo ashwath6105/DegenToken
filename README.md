@@ -32,7 +32,7 @@ npx hardhat verify <contract address> --network fuji
 The "npx hardhat run scripts/deploy.js --network fuji" command will deploy the smart contract.
 
 
-The "npx hardhat verify <contract address> --network fuji" command will verify the smart contract on the testnet.
+The "npx hardhat verify < contract address > --network fuji" command will verify the smart contract on the testnet.
 
 ## Showing The contract Verification and transactions on SnowTrace
 
