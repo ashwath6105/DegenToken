@@ -6,13 +6,7 @@ This is a basic solidity smart contract for implementing DEGEN tokens and explor
 
 This programme is for developing Degen tokens and investigating their numerous applications and functionalities. The user can mint, burn, transfer, and redeem in-game items in addition to minting and burning tokens.
 
-The in-game items in this solidity contract are: 
-
-1. Hoodie
-
-2. Action Figure
-
-3. Watch
+The in-game items in this solidity contract are: 1. Hoodie 2. Action Figure 3. Watch
 
 For Degen Gaming, we introduce this ERC20 token on the Avalanche network.
 
@@ -31,14 +25,16 @@ npx hardhat node
 npx hardhat run scripts/deploy.js
 npx hardhat run scripts/deploy.js --network fuji
 
-```
 
-The above command will deploy the smart contract.
-
-```
 npx hardhat verify <contract address> --network fuji
 ```
-The above command will verify the smart contract on the testnet.
+
+The "npx hardhat run scripts/deploy.js --network fuji" command will deploy the smart contract.
+
+
+The "npx hardhat verify <contract address> --network fuji" command will verify the smart contract on the testnet.
+
+## Showing The contract Verification and transactions on SnowTrace
 
 The contract verification and creation of the contract is showed on snowtrace platform. All the transactions of mint, burn ,transfer and redeem functions will be recorded on SnowTrace platform.
 
